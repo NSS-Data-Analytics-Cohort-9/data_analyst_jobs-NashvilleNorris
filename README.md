@@ -1,10 +1,10 @@
-The dataset for this exercise has been derived from the `Indeed Data Scientist/Analyst/Engineer` [dataset](https://www.kaggle.com/elroyggj/indeed-dataset-data-scientistanalystengineer) on kaggle.com. 
+﻿The dataset for this exercise has been derived from the `Indeed Data Scientist/Analyst/Engineer` [dataset](https://www.kaggle.com/elroyggj/indeed-dataset-data-scientistanalystengineer) on kaggle.com. 
 
 Before beginning to answer questions, take some time to review the data dictionary and familiarize yourself with the data that is contained in each column.
 
 #### Provide the SQL queries and answers for the following questions/tasks using the data_analyst_jobs table you have created in PostgreSQL:
 
-1.	How many rows are in the data_analyst_jobs table?
+1.	How many rows are in the data_analyst_jobs table? 1793
 
 2.	Write a query to look at just the first 10 rows. What company is associated with the job posting on the 10th row?
 
